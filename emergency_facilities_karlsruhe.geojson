@@ -1,0 +1,935 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-04-18T18:04:50Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/12011069",
+        "addr:city": "Karlsruhe",
+        "amenity": "hospital",
+        "contact:phone": "+49 721 974-0",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Städtisches Klinikum",
+        "toilets:wheelchair": "yes",
+        "type": "multipolygon",
+        "website": "https://www.klinikum-karlsruhe.de/",
+        "wheelchair": "yes",
+        "wikidata": "Q2360061",
+        "wikipedia": "de:Städtisches Klinikum Karlsruhe",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.374507,
+          49.0154826
+        ]
+      },
+      "id": "relation/12011069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/25242280",
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "10",
+        "addr:street": "Grünwinkler Straße",
+        "amenity": "police",
+        "check_date": "2024-08-17",
+        "contact:phone": "+49 721 861259",
+        "name": "Polizeiposten Beiertheim-Bulach",
+        "opening_hours": "Mo-Th 07:30-16:15; Fr 07:30-16:00",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3787506,
+          48.9885176
+        ]
+      },
+      "id": "node/25242280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28024932",
+        "addr:city": "Karlsruhe",
+        "addr:housenumber": "3",
+        "addr:postcode": "76227",
+        "addr:street": "Weiherhof",
+        "amenity": "fire_station",
+        "building": "parking",
+        "building:levels": "3",
+        "check_date": "2026-03-22",
+        "name": "Feuerwehrgerätehaus Durlach",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4725898,
+          48.9970481
+        ]
+      },
+      "id": "way/28024932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/28140019",
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "76139",
+        "addr:street": "Julius-Bender-Straße",
+        "addr:suburb": "Hagsfeld",
+        "amenity": "police",
+        "check_date": "2019-10",
+        "name": "Polizeiposten Karlsruhe-Hagsfeld",
+        "opening_hours": "Mo-Fr 08:00-12:00, 13:00-16:00; Sa-Su,PH off",
+        "phone": "+49 721 688010",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4575483,
+          49.0291978
+        ]
+      },
+      "id": "node/28140019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/31261886",
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "31-33",
+        "addr:postcode": "76131",
+        "addr:street": "Durlacher Allee",
+        "addr:suburb": "Oststadt",
+        "amenity": "police",
+        "check_date": "2025-11-02",
+        "contact:phone": "+49 721 666-3211",
+        "name": "Polizeiposten Karlsruhe-Oststadt",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4264759,
+          49.0075107
+        ]
+      },
+      "id": "node/31261886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/32538724",
+        "amenity": "police",
+        "check_date": "2024-09-25",
+        "name": "Polizeirevier Karlsruhe-West",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3758412,
+          49.0153409
+        ]
+      },
+      "id": "node/32538724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/32542681",
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:street": "Wilhelm-Leuschner-Straße",
+        "amenity": "police",
+        "contact:fax": "+49 721 867345",
+        "contact:phone": "+49 721 866453",
+        "name": "Polizeiposten Karlsruhe-Oberreut",
+        "opening_hours": "Mo-Fr 07:15-12:00,12:30-16:00",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.363254,
+          48.9849667
+        ]
+      },
+      "id": "node/32542681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/33312247",
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "76199",
+        "addr:street": "Rastatter Straße",
+        "amenity": "police",
+        "check_date": "2025-05-12",
+        "contact:email": "karlsruhe-rueppurr.pw@polizei.bwl.de",
+        "contact:fax": "+49 721 49974755",
+        "contact:phone": "+49 721 49974740",
+        "name": "Polizeiposten Karlsruhe-Rüppurr",
+        "opening_hours": "Mo-Fr 07:30-16:15",
+        "website": "https://ppkarlsruhe.polizei-bw.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4036207,
+          48.9803923
+        ]
+      },
+      "id": "node/33312247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/85397544",
+        "amenity": "hospital",
+        "check_date": "2026-03-09",
+        "healthcare": "hospital",
+        "healthcare:speciality": "psychiatry",
+        "name": "Klinik für Psychiatrie und psychotherapeutische Medizin",
+        "operator": "Städtisches Klinikum Karlsruhe",
+        "website": "https://www.klinikum-karlsruhe.de/medizin/psychiatrische-kliniken/klinik-fuer-psychiatrie-und-psychotherapeutische-medizin/allgemeine-vorstellung.html",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3803361,
+          49.0118897
+        ]
+      },
+      "id": "way/85397544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/97135214",
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "11",
+        "addr:postcode": "76227",
+        "addr:street": "Amthausstraße",
+        "addr:suburb": "Durlach",
+        "amenity": "police",
+        "building": "office",
+        "building:levels": "3",
+        "check_date": "2025-11-10",
+        "name": "Polizeirevier Durlach",
+        "roof:levels": "2",
+        "roof:shape": "gabled",
+        "source:outline": "Maps4BW (LGL-BW, www.lgl-bw.de)",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4716775,
+          48.9984379
+        ]
+      },
+      "id": "way/97135214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/118513444",
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "31-33",
+        "addr:postcode": "76227",
+        "addr:street": "Alte Karlsruher Straße",
+        "addr:suburb": "Durlach",
+        "amenity": "police",
+        "check_date": "2024-12-09",
+        "name": "Autobahnpolizeirevier Karlsruhe",
+        "official_name": "Verkehrsdienst Karlsruhe - Verkehrsgruppe BAB",
+        "police:type": "traffic_police",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4572175,
+          49.0035275
+        ]
+      },
+      "id": "way/118513444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/122478997",
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "76189",
+        "addr:street": "Waidweg",
+        "alt_name": "Freiwillige Feuerwehr Daxlanden",
+        "amenity": "fire_station",
+        "building": "fire_station",
+        "contact:website": "https://www.ff-daxlanden.de/",
+        "name": "Feuerwehrgerätehaus Daxlanden",
+        "operator": "Freiwillige Feuerwehr Karlsruhe Abteilung Daxlanden",
+        "source:addr": "Maps4BW, LGL, www.lgl-bw.de",
+        "source:geometry": "Maps4BW (LGL-BW, www.lgl-bw.de);Bing 2020",
+        "start_date": "1982-10",
+        "website": "https://ff-daxlanden.de/index.php",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3225432,
+          49.0052647
+        ]
+      },
+      "id": "way/122478997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/127968284",
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "15",
+        "addr:postcode": "76135",
+        "addr:street": "Rolandstraße",
+        "addr:suburb": "Beiertheim-Bulach",
+        "amenity": "fire_station",
+        "building": "fire_station",
+        "check_date": "2025-06-16",
+        "email": "kontakt@ffbulach.de",
+        "fax": "+497219209475",
+        "name": "Feuerwehrgerätehaus Bulach",
+        "operator": "Freiwillige Feuerwehr Karlsruhe Abt. Bulach",
+        "phone": "+49 721 868468",
+        "website": "https://ffbulach.de",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3789366,
+          48.9887849
+        ]
+      },
+      "id": "way/127968284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/129659290",
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "65",
+        "addr:postcode": "76187",
+        "addr:street": "Saarlandstraße",
+        "amenity": "fire_station",
+        "building": "yes",
+        "check_date": "2024-07-02",
+        "name": "Feuerwehrgerätehaus Knielingen",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3383718,
+          49.0314556
+        ]
+      },
+      "id": "way/129659290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/144452650",
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "32",
+        "addr:postcode": "76137",
+        "addr:street": "Südendstraße",
+        "addr:suburb": "Südweststadt",
+        "amenity": "hospital",
+        "brand": "ViDia",
+        "check_date": "2024-08-08",
+        "contact:website": "http://www.vidia-kliniken.de",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "ViDia Christliche Kliniken Standort Südendstraße",
+        "network": "ViDia Christliche Kliniken Karlsruhe",
+        "operator": "Vincentius-Diakonissen-Kliniken gAG",
+        "operator:type": "private_non_profit",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3892653,
+          48.9992211
+        ]
+      },
+      "id": "way/144452650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/157370171",
+        "amenity": "hospital",
+        "brand": "ViDia",
+        "contact:website": "http://www.vidia-kliniken.de",
+        "healthcare": "hospital",
+        "name": "ViDia Christliche Kliniken Standort Steinhäuserstraße",
+        "network": "ViDia Christliche Kliniken Karlsruhe",
+        "operator": "Vincentius-Diakonissen-Kliniken gAG",
+        "operator:type": "private_non_profit",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.378984,
+          48.9999115
+        ]
+      },
+      "id": "way/157370171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/219490495",
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "10-12",
+        "addr:postcode": "76139",
+        "addr:street": "Brückenstraße",
+        "addr:suburb": "Hagsfeld",
+        "amenity": "fire_station",
+        "building": "fire_station",
+        "fire_station:type": "voluntary",
+        "name": "Feuerwehrgerätehaus Hagsfeld",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4600882,
+          49.0302495
+        ]
+      },
+      "id": "way/219490495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/234030741",
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "56a",
+        "addr:postcode": "76185",
+        "addr:street": "Zeppelinstraße",
+        "amenity": "fire_station",
+        "building": "yes",
+        "check_date": "2024-04-19",
+        "name": "Feuerwehrgerätehaus Grünwinkel",
+        "roof:shape": "flat",
+        "source:addr": "Maps4BW, LGL, www.lgl-bw.de",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3540743,
+          49.0037939
+        ]
+      },
+      "id": "way/234030741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/250124775",
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "39b",
+        "addr:postcode": "76149",
+        "addr:street": "Bärenweg",
+        "amenity": "police",
+        "name": "Polizeiposten Neureut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3821041,
+          49.0450476
+        ]
+      },
+      "id": "node/250124775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/280172403",
+        "addr:city": "Karlsruhe",
+        "addr:housenumber": "1",
+        "addr:postcode": "76228",
+        "addr:street": "Rathausstraße",
+        "amenity": "fire_station",
+        "check_date": "2024-10-10",
+        "name": "Feuerwehrgerätehaus Wolfartsweier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4530189,
+          48.9746119
+        ]
+      },
+      "id": "node/280172403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/280173140",
+        "addr:city": "Karlsruhe",
+        "addr:housenumber": "4",
+        "addr:postcode": "76227",
+        "addr:street": "Ostmarkstraße",
+        "amenity": "fire_station",
+        "check_date": "2024-05-25",
+        "name": "Feuerwehrhaus Aue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4592696,
+          48.9895057
+        ]
+      },
+      "id": "node/280173140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/280180020",
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "76185",
+        "addr:street": "Hardtstraße",
+        "amenity": "fire_station",
+        "description": "Feuerwehrgerätehaus Mühlburg",
+        "name": "Feuerwehr Mühlburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3554878,
+          49.010969
+        ]
+      },
+      "id": "node/280180020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/280183010",
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "29",
+        "addr:postcode": "76185",
+        "addr:street": "Kornweg",
+        "addr:suburb": "Daxlanden",
+        "amenity": "fire_station",
+        "check_date": "2025-10-22",
+        "contact:website": "http://www.abc-zug-ka.de/",
+        "name": "ABC-Zug Karlsruhe-Stadt",
+        "operator": "Freiwillige Feuerwehr Karlsruhe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3412519,
+          49.0049707
+        ]
+      },
+      "id": "node/280183010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/333176884",
+        "addr:city": "Karlsruhe",
+        "addr:housenumber": "7",
+        "addr:postcode": "76133",
+        "addr:street": "Südliche Hildapromenade",
+        "amenity": "hospital",
+        "building": "hospital",
+        "building:levels": "2",
+        "healthcare": "hospital",
+        "healthcare:speciality": "psychiatry",
+        "name": "Klinik für Kinder- und Jugendpsychiatrie, Psychosomatik und Psychotherapie",
+        "operator": "Städtisches Klinikum Karlsruhe",
+        "roof:shape": "flat",
+        "source:geometry": "Maps4BW, LGL, www.lgl-bw.de;Bing 2013",
+        "start_date": "2011",
+        "website": "https://www.klinikum-karlsruhe.de/einrichtungen/psychiatrische-kliniken/kinder-und-jugendpsychiatrie-psychosomatik-und-psychotherapie/",
+        "wheelchair": "yes",
+        "wikidata": "Q125697636",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3800276,
+          49.0120252
+        ]
+      },
+      "id": "way/333176884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/390584996",
+        "amenity": "police",
+        "check_date": "2026-04-09",
+        "name": "Kriminalpolizei Karlsruhe",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.365127,
+          49.0200927
+        ]
+      },
+      "id": "node/390584996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/430660511",
+        "amenity": "hospital",
+        "brand": "ViDia",
+        "contact:website": "http://www.vidia-kliniken.de",
+        "name": "ViDia Christliche Kliniken Standort Edgar-von-Gierke-Straße",
+        "network": "ViDia Christliche Kliniken Karlsruhe",
+        "operator": "Vincentius-Diakonissen-Kliniken gAG",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3784067,
+          49.0013801
+        ]
+      },
+      "id": "way/430660511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/617823007",
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "76137",
+        "addr:street": "Zimmerstraße",
+        "addr:suburb": "Südstadt",
+        "amenity": "fire_station",
+        "fire_station:type": "occupation",
+        "name": "Hauptfeuerwache Karlsruhe",
+        "operator": "Branddirektion Karlsruhe",
+        "operator:type": "public",
+        "start_date": "2021-04-28",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4255678,
+          49.0009467
+        ]
+      },
+      "id": "way/617823007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/691974117",
+        "addr:city": "Karlsruhe",
+        "addr:housenumber": "3",
+        "addr:postcode": "76185",
+        "addr:street": "Honsellstraße",
+        "alt_name": "Feuerwache West",
+        "amenity": "fire_station",
+        "contact:phone": "+49 721 1333721",
+        "contact:website": "https://www.karlsruhe.de/b4/buergerdienste/feuerwehr/berufsfeuerwehr.de",
+        "fire_station:type": "occupation",
+        "name": "Berufsfeuerwehr Karlsruhe Westwache",
+        "opening_hours": "24/7",
+        "operator": "Stadt Karlsruhe",
+        "start_date": "1960",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3541093,
+          49.0125874
+        ]
+      },
+      "id": "way/691974117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/760918947",
+        "amenity": "police",
+        "check_date": "2024-04-22",
+        "name": "Polizeirevier Karlsruhe-Waldstadt",
+        "opening_hours": "24/7",
+        "website": "http://www.polizei-karlsruhe.de/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4315807,
+          49.0322117
+        ]
+      },
+      "id": "way/760918947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1188027135",
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "31-33",
+        "addr:postcode": "76131",
+        "addr:street": "Durlacher Allee",
+        "addr:suburb": "Oststadt",
+        "amenity": "police",
+        "contact:email": "karlsruhe.pp@polizei.bwl.de",
+        "contact:fax": "+49 721 6663199",
+        "contact:phone": "+49 721 6660",
+        "contact:website": "https://ppkarlsruhe.polizei-bw.de/",
+        "name": "Polizeipräsidium Karlsruhe",
+        "wikidata": "Q61628856",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4264335,
+          49.0081827
+        ]
+      },
+      "id": "way/1188027135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1320464264",
+        "amenity": "police",
+        "name": "Polizeirevier Karlsruhe-Südweststadt",
+        "opening_hours": "24/7",
+        "website": "https://ppkarlsruhe.polizei-bw.de/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.397165,
+          49.001864
+        ]
+      },
+      "id": "way/1320464264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2472329178",
+        "amenity": "police",
+        "check_date": "2024-05-20",
+        "level": "1",
+        "name": "Bundespolizei",
+        "operator": "Bundespolizei",
+        "operator:short": "BPOL",
+        "operator:wikidata": "Q56026",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4010827,
+          48.9941122
+        ]
+      },
+      "id": "node/2472329178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3102001795",
+        "amenity": "fire_station",
+        "fire_station:type": "concern",
+        "name": "Werksfeuerwehr Bosch",
+        "operator": "Robert Bosch GmbH",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4714729,
+          49.0164464
+        ]
+      },
+      "id": "node/3102001795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3859393565",
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "59-63",
+        "addr:postcode": "76137",
+        "addr:street": "Augartenstraße",
+        "amenity": "police",
+        "check_date": "2024-03-05",
+        "check_date:opening_hours": "2022-01-17",
+        "contact:fax": "+49 721 352700",
+        "name": "Polizeiposten Südstadt",
+        "opening_hours": "Mo,Fr 07:30-16:00; Tu,We,Th 07:30-18:00; PH off",
+        "wheelchair": "no",
+        "wheelchair:description": "5 Stufen am Eingang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4098681,
+          48.9991233
+        ]
+      },
+      "id": "node/3859393565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4359043368",
+        "amenity": "police",
+        "check_date": "2024-03-05",
+        "name": "Polizeirevier Karlsruhe-Marktplatz",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "limited",
+        "wheelchair:description": "Zugang über Seiteneingang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4040508,
+          49.0079582
+        ]
+      },
+      "id": "node/4359043368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4401492790",
+        "addr:city": "Karlsruhe",
+        "addr:housenumber": "55",
+        "addr:postcode": "76185",
+        "addr:street": "Durmersheimer Straße",
+        "amenity": "police",
+        "check_date:opening_hours": "2024-10-10",
+        "contact:email": "KARLSRUHE-GRUENWINKEL-DAXLANDEN.PW@polizei.bwl.de",
+        "contact:phone": "+49 721 915683-50",
+        "level": "4",
+        "name": "Polizeiposten Karlsruhe Grünwinkel-Daxlanden",
+        "opening_hours": "Mo-Fr 07:30-16:30",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "wheelchair:description": "schmale geschotterte Rampe zur Tür, dann Aufzug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3546519,
+          49.0021467
+        ]
+      },
+      "id": "node/4401492790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11775776669",
+        "addr:housenumber": "31-33",
+        "addr:postcode": "76131",
+        "addr:street": "Durlacher Allee",
+        "amenity": "police",
+        "name": "Verkehrspolizei Karlsruhe",
+        "name:en": "Traffic-Police Karlsruhe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4266214,
+          49.0082022
+        ]
+      },
+      "id": "node/11775776669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12830186199",
+        "amenity": "police",
+        "contact:email": "karlsruhe-knielingen.pw@polizei.bwl.de",
+        "contact:phone": "+49 721 95990",
+        "name": "Polizeiposten Knielingen",
+        "opening_hours": "Mo-Fr 07:30-16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3479379,
+          49.0337562
+        ]
+      },
+      "id": "node/12830186199"
+    }
+  ]
+}
