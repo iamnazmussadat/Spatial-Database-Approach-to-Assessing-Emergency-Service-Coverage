@@ -1,2 +1,11 @@
-# Spatial-Database-Approach-to-Assessing-Emergency-Service-Coverage
-The open-source, fully reproducible methodology — combining PostgreSQL/PostGIS with QGIS — provides a scalable foundation for evidence-based emergency facility planning in urban contexts. Keywords: spatial database, emergency services, PostGIS, gap analysis, service coverage, Karlsruhe, GIS, urban planning
+# Spatial Database Approach to Assessing Emergency Service Coverage
+An analysis of emergency facility distribution and service gaps in Karlsruhe, Germany.
+
+## 📌 Project Overview
+This project evaluates the accessibility and coverage zones of emergency services (hospitals, fire stations, and police stations) in Karlsruhe. Using spatial SQL queries and QGIS buffer analysis, it identifies critical vulnerability areas ("Triple Gaps") where coverage is insufficient.
+
+## 📂 What's Inside
+* `code.sql`: PostGIS / SQL script containing spatial queries used to calculate service gaps.
+* `*.geojson`: Spatial datasets for roads, city boundaries, and facility locations.
+* `*.qgz`: QGIS project files showing the visual layout of the maps.
+* `Paper.pdf`: The complete, formal research paper detailing the methodology and results.
